@@ -2,13 +2,17 @@
 
 h1,
 h2 {
-	color: blueviolet;
+  color: blueviolet;
 }
 
-.box > p { 
-    color: firebrick;
+.box > p {
+  color: firebrick;
 }
 
-.box li { 
-    color: blue;
+.box li {
+  color: blue;
+}
+
+li.done {
+  color: seagreen;
 }
