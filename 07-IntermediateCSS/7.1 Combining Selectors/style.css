@@ -1,18 +1,27 @@
 /* Write your code here: */
 
+/* Group selectors */
 h1,
 h2 {
   color: blueviolet;
 }
 
+/* Child selectors */
 .box > p {
   color: firebrick;
 }
 
+/* Descendent selectors */
 .box li {
   color: blue;
 }
 
+/* Chained selectors */
 li.done {
   color: seagreen;
+}
+
+/* Multiple combiner selectors */
+ul p.done {
+  font-size: 0.5rem;
 }
