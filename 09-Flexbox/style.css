@@ -1,0 +1,39 @@
+body {
+  background-color: blue;
+}
+
+.row {
+  background-color: yellow;
+  text-align: justify;
+}
+
+.col1 {
+  width: 10%;
+}
+
+.col2 {
+  width: 25%;
+}
+
+.col3 {
+  width: 40%;
+}
+
+div {
+  display: inline-block;
+  background-color: black;
+  color: yellow;
+  margin-right: -4px;
+}
+
+.one {
+  width: 25%;
+}
+
+.two {
+  width: 50%;
+}
+
+.three {
+  width: 25%;
+}
